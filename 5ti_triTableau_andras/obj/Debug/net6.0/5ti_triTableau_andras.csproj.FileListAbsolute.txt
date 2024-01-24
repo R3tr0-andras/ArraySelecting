@@ -1,0 +1,14 @@
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\bin\Debug\net6.0\5ti_triTableau_andras.exe
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\bin\Debug\net6.0\5ti_triTableau_andras.deps.json
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\bin\Debug\net6.0\5ti_triTableau_andras.runtimeconfig.json
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\bin\Debug\net6.0\5ti_triTableau_andras.dll
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\bin\Debug\net6.0\5ti_triTableau_andras.pdb
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.AssemblyInfoInputs.cache
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.AssemblyInfo.cs
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.csproj.CoreCompileInputs.cache
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.dll
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\refint\5ti_triTableau_andras.dll
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.pdb
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\5ti_triTableau_andras.genruntimeconfig.cache
+C:\Users\Andra\OneDrive\Bureau\visual\5ti_triTableau_andras\obj\Debug\net6.0\ref\5ti_triTableau_andras.dll
